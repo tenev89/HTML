@@ -1,0 +1,35 @@
+.button{
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+    cursor: pointer
+}
+.filled{
+        background-color:black;
+        color: #fff;
+        cursor: pointer;
+        border-radius: 20px;
+        margin: 5px;
+        padding: 5px;
+        width: 100px;
+}
+.filled-icon-button{
+    background-color:black;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+}
+.filled-icon-button-green{
+    background-color:green;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 20px;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+
+}

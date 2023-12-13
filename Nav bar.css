@@ -1,0 +1,32 @@
+body{
+    Margin: 0px;
+    Padding: 0px;
+    background-color:lightgrey
+
+}
+nav{
+    background-color: aqua;
+    padding: 0px;
+    text-align: center;
+}
+nav ul{
+    Background Color: rgb(111, 209, 209);
+    Padding: 0px;
+    Margin:  0px;
+    list-style:none;
+}
+nav li{
+    display: inline-block;
+    Text size: 24px;
+    Line Height: 40px;
+    Height: 40px;
+    Padding: 20px;
+    box-shadow: 0 0 10px 4px #dfdddd;
+
+}
+a {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 23px;
+
+}
