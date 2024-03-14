@@ -8,23 +8,23 @@ This repository serves as a comprehensive showcase of my HTML and CSS skills. Ea
 
 Exercise 1: Animals Page
 
-Description: Create a simple web page showcasing different animals. Practice structuring the content using HTML and styling it using CSS.
+Description: Create a simple web page showcasing different animals. Practice structuring the content using HTML.
 
 Exercise 2: Article Page
 
 Description: Design a web page layout for an article. Focus on creating a visually appealing layout with proper headings, paragraphs, and images.
 
-Exercise 3: Font Awesome Integration
+Exercise 3: Font Awesome
 
 Description: Integrate Font Awesome icons into a web page. Experiment with different icons and styles to enhance the visual appearance of the page.
 
 Exercise 4: Navigation Bar
 
-Description: Implement a navigation bar using HTML and CSS. Create a responsive navigation menu that adapts to different screen sizes.
+Description: Implement a navigation bar using HTML and CSS.
 
 Exercise 5: To-Do List
 
-Description: Develop a simple to-do list web application. Use HTML for structuring the list and CSS for styling the elements. Add basic interactivity using JavaScript if desired.
+Description: Develop a simple to-do list web application. Use HTML for structuring the list and CSS for styling the elements
 
 Exercise 6: Buttons
 
